@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626801727731",
+    "project_id": "books-course-work-1",
+    "storage_bucket": "books-course-work-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626801727731:android:2f735b7f9e564cc0f03f86",
+        "android_client_info": {
+          "package_name": "com.example.books_cw1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626801727731-3vqt3fhr8rotv8pehfr77enh66a9gaa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVrmV93zGY_JVACAME5lqEIrcoisN-mqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626801727731-3vqt3fhr8rotv8pehfr77enh66a9gaa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
